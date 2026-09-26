@@ -1,0 +1,49 @@
+Budi Santoso
+Jl. Merdeka No. 10 Jakarta
+28
+ENG-001
+TechCorp
+15000000
+Python, SQL
+VS Code, Git
+Backend Developer
+
+Siti Aminah
+Jl. Mawar No. 45 Bandung
+25
+ENG-002
+DataInc
+13500000
+Data Analysis, R
+Jupyter, Tableau
+Data Engineer
+
+Alexander Budiarto Prawiranegara
+Jl. Jendral Sudirman No. 99 Surabaya
+35
+ENG-003
+Mega Global Tech
+27500000
+Python, Java, Docker, Kubernetes
+IntelliJ, VS Code, Postman
+Lead Software Engineer
+
+Rian Hidayat
+Jl. Anggrek No. 12 Yogyakarta
+23
+ENG-004
+StartupYuk
+8500000
+HTML, CSS, JavaScript, React
+VS Code, Figma
+Frontend Developer
+
+Dewi Lestari
+Jl. Pemuda No. 88 Semarang
+30
+ENG-005
+CyberGuard
+19000000
+Penetration Testing, Python, Linux
+Wireshark, Burp Suite, Metasploit
+DevSecOps Engineer
